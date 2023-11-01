@@ -1,0 +1,192 @@
+:root {
+  --green-color: #3ed7a0;
+  --blue-color: #82cff1;
+  --gray-color: #222c40;
+  --main-color: #f9f9f9;
+  --main-transition: 0.3s;
+  --bg-hover: #f6f6f6;
+  --fa-style-family-classic: "Font Awesome 6 Free";
+  --blue-alt-color: #0d69d5;
+  --orange-color: #f59e0b;
+  --red-color: #f44336;
+  --red-alt-color: #f52b1c;
+  --grey-color: #888;
+  --border-color: #CCC;
+  --secondary-border-color: #EEE;
+  --border-radius: 10px;
+  --main-box-shadow: 0 0 10px #ddd;
+  --secondary-box-shadow: 0 0 5px #ddd;
+  --main-border: 1px solid #CCC;
+  --secondary-border: 1px solid #DDD;
+  --treitary-border: 1px solid #eee;
+  --main-opacity: 0.3;
+}
+/* Start Margin + Padding */
+.m-0 {
+  margin: 0;
+}  
+.mt-5 {
+  margin-top: 5px;
+}
+.mt-10 {
+  margin-top: 10px;
+}
+.mt-15 {
+  margin-top: 15px;
+}
+.mt-20 {
+  margin-top: 20px;
+}
+.mr-5 {
+  margin-right: 5px;  
+}
+.mr-10 {
+  margin-right: 10px;  
+}
+.mr-15 {
+  margin-right: 15px;  
+}
+.mr-20 {
+  margin-right: 20px;  
+}
+.mr-25 {
+  margin-right: 25px;  
+}
+.mr-30 {
+  margin-right: 30px;  
+}
+.ml-5 {
+  margin-left: 5px;
+}
+.ml-10 {
+  margin-left: 10px;
+}
+.mb-5 {
+  margin-bottom: 5px;
+}
+.mb-10 {
+  margin-bottom: 10px;
+}
+.mb-15 {
+  margin-bottom: 15px;
+}
+.mb-20 {
+  margin-bottom: 20px;
+}
+.p-0 {
+  padding: 0;
+}
+.p-10 {
+  padding: 10px;
+}
+.p-20 {
+  padding: 20px;
+}
+.pt-5 {
+  padding-top: 5px;
+}
+.pt-10 {
+  padding-top: 10px;
+}
+.pr-10 {
+  padding-right: 10px;
+}
+.pr-15 {
+  padding-right: 15px;
+}
+.pb-5 {
+  padding-bottom: 5px;
+}
+.pb-10 {
+  padding-bottom: 10px;
+}
+.pl-10 {
+  padding-left: 10px;
+}
+.pl-15 {
+  padding-left: 15px;
+}
+/* End Margin + Padding */
+/* Start Colors */
+.bg-white {
+  background-color: white;
+}
+.c-gray {
+  color: var(--gray-color);
+}
+.c-grey {
+  color: var(--grey-color);
+}
+.c-white {
+  color: #fff;
+}
+.c-blue {
+  color: #82cff1;
+}
+.bg-4e {
+  background-color: #7c7c7c;
+}
+.bg-green {
+  background-color: rgba(62, 215, 159, 0.5);
+}
+.bg-gray {
+  background-color: var(--gray-color);
+}
+.bg-violet {
+  background-color:rgba(238, 130, 238, 0.5);
+}
+/* End Colors */
+/* Start Fonts */
+.fs-13 {
+  font-size: 13px;
+}
+.fs-14 {
+  font-size: 14px;
+}
+.fs-15 {
+  font-size: 15px;
+}
+.fs-16 {
+  font-size: 16px;
+}
+.fs-17 {
+  font-size: 17px;
+}
+.fs-18 {
+  font-size: 18px;
+}
+.fs-20 {
+  font-size: 20px;
+}
+.fs-22 {
+  font-size: 22px;
+}
+.fs-24 {
+  font-size: 24px;
+}
+.fw-bold {
+  font-weight: bold;
+}
+/* End Fonts */
+/* Start border */
+.rad-6 {
+  border-radius: 6px;
+}
+.rad-10 {
+  border-radius: 10px;
+}
+/* End border */
+/* Start Width + Height */
+.w-130 {
+  width: 130px;
+}
+.h-100 {
+  height: 100px;
+}
+/* End Width + Height */
+/* Start Components */
+.btn-shape {
+  padding: 5px 12px;
+  border-radius: 10px;
+}
+/* End Components */
